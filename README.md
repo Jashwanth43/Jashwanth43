@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 **Software Engineer** with over 3 years of experience building scalable web applications and GenAI solutions, specializing in **Java**, **Python**, **Spring Boot**, **React**, and **AWS**.
+- 👨‍💻 **Software Engineer** with over 4 years of experience building scalable web applications and GenAI solutions, specializing in **Java**, **Python**, **Spring Boot**, **React**, and **AWS**.
 - ☁️ Proficient in cloud technologies, including **AWS (Bedrock, Lambda, S3, RDS, Cognito)**, microservices, and CI/CD automation with **Docker**, **AWS CodePipeline**, and **ECS**.
 - 🤖 Passionate about **Generative AI**, leveraging **Amazon Bedrock** and **Claude LLM** to develop intelligent agents for data retrieval and automation.
 - 🔧 Skilled in optimizing performance with **PostgreSQL partitioning**, **Kafka message queuing**, and **Redis caching**, alongside secure authentication using **Spring Security** and **AWS Cognito**.
