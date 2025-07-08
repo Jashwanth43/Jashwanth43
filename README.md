@@ -9,9 +9,9 @@
 
 - 👨‍💻 **Software Engineer** with over 4 years of experience building scalable web applications and GenAI solutions, specializing in **Java**, **Python**, **Spring Boot**, **React**, and **AWS**.
 - ☁️ Proficient in cloud technologies, including **AWS (Bedrock, Lambda, S3, RDS, Cognito)**, microservices, and CI/CD automation with **Docker**, **AWS CodePipeline**, and **ECS**.
-- 🤖 Passionate about **Generative AI**, leveraging **Amazon Bedrock** and **Claude LLM** to develop intelligent agents for data retrieval and automation.
+- 🤖 Passionate about **Generative AI**, leveraging **Amazon Bedrock**, **Claude LLM**, **Langchain**, and **MCP Servers** to develop intelligent agents for data retrieval and automation.
 - 🔧 Skilled in optimizing performance with **PostgreSQL partitioning**, **Kafka message queuing**, and **Redis caching**, alongside secure authentication using **Spring Security** and **AWS Cognito**.
-- 🌐 Currently based in **Seattle, WA**, with a Master’s in Computer Science from **Central Michigan University (GPA: 4.0)**.
+- 🌐 Currently based in **Seattle, WA**, with a Master's in Computer Science from **Central Michigan University (GPA: 4.0)**.
 - 💡 Certified **[AWS Certified Developer – Associate]([Link])** and **[GCP Professional Cloud Architect]([Link])**, with hands-on experience in designing efficient, secure, and scalable systems.
 - 📈 Experienced in full-stack development, API optimization, and database management with **PostgreSQL**, **MySQL**, **Oracle**, and **MongoDB**.
 - 🤝 Recognized with the **TCS Special Initiative Award** for leadership and inspiring teamwork during my tenure at Tata Consultancy Services.
@@ -36,6 +36,9 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="https://aws.amazon.com/bedrock/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-bedrock.svg" alt="AWS Bedrock" width="48" height="48"/> </a>
+    <a href="https://langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Langchain" width="48" height="48"/> </a>
+    <a href="https://modelcontextprotocol.io/" target="_blank"> <img src="https://modelcontextprotocol.io/img/mcp-logo.svg" alt="MCP Server" width="48" height="48"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
